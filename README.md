@@ -1,1 +1,3 @@
-# googleUiClone
+# Google UI Cl
+<img alt="G" src="https://img.shields.io/badge/G-%2300599C.svg?&style=for-the-badge&logo=&logoColor=blue" /><img alt="C" src="https://img.shields.io/badge/o-%2300599C.svg?&style=for-the-badge&logo=&logoColor=red" /><img alt="C" src="https://img.shields.io/badge/o-%2300599C.svg?&style=for-the-badge&logo=&logoColor=yellow" /><img alt="C" src="https://img.shields.io/badge/g-%2300599C.svg?&style=for-the-badge&logo=&logoColor=blue" /><img alt="C" src="https://img.shields.io/badge/l-%2300599C.svg?&style=for-the-badge&logo=&logoColor=green" /><img alt="C" src="https://img.shields.io/badge/e-%2300599C.svg?&style=for-the-badge&logo=&logoColor=red" />
+
